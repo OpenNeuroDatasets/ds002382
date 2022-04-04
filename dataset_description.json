@@ -18,5 +18,6 @@
     "DatasetDOI": "10.18112/openneuro.ds002382.v1.0.0",
     "ReferencesAndLinks": [
         "https://doi.org/10.1162/nol_a_00021"
-    ]
+    ],
+    "HowToAcknowledge": "Please cite Rogers CS, Jones MS, McConkey S, Spehar B, Van Engen KJ, Sommers MS, Peelle JE (2020) Age-related differences in auditory cortex activity during spoken word recognition. Neurobiology of Language 1:452\u2013473. doi:10.1162/nol_a_00021"
 }
